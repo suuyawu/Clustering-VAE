@@ -10,3 +10,8 @@ pytorch
 To get the results in my report:
 python main.py --epochs 200 
 
+code sources:
+vae:
+concrete vae:
+bmm implement:
+
