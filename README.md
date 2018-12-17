@@ -8,5 +8,5 @@ pytorch
 ....
 
 To get the results in my report:
-python --epochs 200 
+python main.py --epochs 200 
 
